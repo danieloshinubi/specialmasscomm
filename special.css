@@ -1,0 +1,11 @@
+body{background-color:coral;font-family: Arial, Helvetica, sans-serif;}
+a{text-decoration:none; color: blueviolet;}
+h1,h2.h3{margin: 0%;}
+#container{background-color:white; width:800px; margin-left:auto; margin-right:auto;}
+#content{padding:10px;}
+#nav{width: 180px;float: left;}
+#nav ul{list-style-type: none;padding: 0cm;}
+#nav.selected{font-weight: bold;}
+#main{width: 600px;float: right;}
+#footer{clear: both;padding: 10px;background-color: rgb(43, 198, 226);color: white;text-align:right;}
+#header{background-color: yellow;color: black;text-align: center;}
